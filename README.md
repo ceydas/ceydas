@@ -1,9 +1,11 @@
-# About Me
+## About Me
 ⭐️ Hi, I'm Ceyda, a recent CS grad from Bilkent University.
 <br/>
 
-
 ⭐️ I like creating: well-documented, clean, scalable architecture design, and visually appealing work.
+<br/>
+
+⭐️ I am mostly skilled in: Java, Javascript, Python, Database design.
 <br/>
 
 
@@ -18,8 +20,8 @@
 <br/>
 
 
-# Tech Stack
-### Programming Languages
+## Tech Stack
+#### Programming Languages
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -41,7 +43,7 @@
   </a>
 </p>
 
-### Back End Development
+#### Back End Development
 <p align="left">
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
@@ -63,7 +65,7 @@
 </br>
 
 
-### Cloud Technologies
+#### Cloud Technologies
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
@@ -74,7 +76,7 @@
 </p>
 
 
-### Databases / Storage
+#### Databases / Storage
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
@@ -102,7 +104,7 @@
   </a>
 </p>
 
-### Software Development / Version Control / Containerization
+#### Software Development / Version Control / Containerization
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
@@ -115,7 +117,7 @@
   </a>
 </p>
 
-### Front End Frameworks
+#### Front End Frameworks
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
@@ -125,7 +127,7 @@
   </a>
 </p>
 
-### ML / Data
+#### ML / Data
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
@@ -141,7 +143,7 @@
   </a>
 </p>
 
-### Mobile Application Development
+#### Mobile Application Development
 <p align="left">
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
@@ -151,14 +153,14 @@
   </a>
 </p>
 
-### Automation
+#### Automation
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50"/>
   </a>
 </p>
 
-### Other
+#### Other
 <p align="left">
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80OChMU7lMUMwU7CVu4ZJl1irvee4jmFfjw&s" alt="xd" width="50" height="50"/>
